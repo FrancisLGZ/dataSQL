@@ -19,7 +19,7 @@
     Créer l'album de ton artiste favori en base, en renseignant correctement les trois tables albums, artists et tracks
     
     
- # Projets : 5 ans après, nouvelle enquête sur les Panama Papers
+# Projets : 5 ans après, nouvelle enquête sur les Panama Papers
  
 ## BDD : panamapapers.sqlite3
 ## Reponses aux questions . panamaPapers.ipynb
